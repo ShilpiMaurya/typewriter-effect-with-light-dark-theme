@@ -5,3 +5,10 @@
 
 ## Light theme
 <img width="555" alt="Screen Shot 2021-02-12 at 20 36 46" src="https://user-images.githubusercontent.com/47273243/107785136-38b4bb80-6d72-11eb-83d6-1c6f2b1914c2.png">
+
+
+## Libraries/frameworks used:
+- react
+- styled-components
+- typewriter-effect
+- @material-ui/core/Switch
